@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ma Yuanchen / Personal Homepage"
+title                    : "Yuanchen Ma/ Personal Homepage"
 title_separator          : "-"
-name                     : &name "Ma Yuanchen"
+name                     : &name "Yuanchen Ma"
 description              : &description "personal description"
 url                      : https://myccc16.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "myccc16/myccc16.github.io"
 author:
   # Biographic information
   avatar           : "myc.png"
-  name             : "Ma Yuanchen"
+  name             : "Yuanchen Ma"
   pronouns         : # example: "she/her"  
   bio              : "Hi"
   location         : "China"
-  employer         : "Beijing University of Posts and Communications"
+  employer         : "Zhejiang University"
   uri              : # URL
-  email            : "mayuanchen@bupt.edu.cn" 
+  email            : "22525047@zju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

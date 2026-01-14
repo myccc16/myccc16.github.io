@@ -7,12 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a junior student from [School of AI](https://ai.bupt.edu.cn/), [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/). My research interest includes multi-modal learning, computer vision and machine learning.
+I'm a master's student at [Zhejiang University](https://www.zju.edu.cn). My research interest includes multi-modal learning, computer vision and machine learning.
 
 
-[Email](mayuanchen@bupt.pku.edu.cn) / [Github](https://github.com/myccc16) .
+[Email](22525047@zju.edu.cn) / [Github](https://github.com/myccc16) .
 
-
-Honors
-======
-[National Scholarship](../images/nationalscholarship.png).
